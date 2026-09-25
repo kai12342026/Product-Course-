@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-09-25T21:40:00Z"},
+  "title": "From Idea to Impact",
+  "order": ["cover", "app", "build", "know", "request", "questions", "toolkit", "pair2", "share2", "reveal1", "model", "assume", "vote", "methods", "walk", "reveal2", "true", "glasses", "eyes", "journey", "journey2", "ai", "pipeline", "demo1", "demo2", "judgment", "context", "demo3", "toolbox", "back", "ladder", "impact", "pair3", "final", "loop1", "loop2", "thanks", "appx", "template", "speckit", "skills", "fallback"],
+  "sections": {
+    "s1": {"description": "Hook: she needs an app, and the room jumps straight to solutions", "start": "cover"},
+    "s2": {"description": "Ask better questions: interview the business, not the request", "start": "request"},
+    "s3": {"description": "Don't build yet: assumptions, evidence and the Walk Around", "start": "model"},
+    "s4": {"description": "True story from 6over6: a journey, not a feature", "start": "true"},
+    "s5": {"description": "From understanding to building: AI agents, context and Claude Code live", "start": "ai"},
+    "s6": {"description": "Build the right thing: validate cheaply and measure impact", "start": "back"},
+    "s7": {"description": "The loop closes: maybe she doesn't need an app", "start": "final"},
+    "s8": {"description": "Bonus and backup slides for extra time or a failed demo", "start": "appx"}
+  },
+  "faces": {
+    "rubik": {"family": "Rubik", "href": "https://fonts.googleapis.com/css2?family=Rubik:wght@300..900&display=swap"},
+    "jetbrains-mono": {"family": "JetBrains Mono", "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap"}
+  },
+  "designSystems": []
+}
