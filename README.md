@@ -1,2 +1,2 @@
-# Product-Course-
+# Product-Course
 Materials for presentation in Product-Course 
